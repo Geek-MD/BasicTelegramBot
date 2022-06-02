@@ -24,7 +24,7 @@ pip install requests
 Now clone this repo with
   
 ```
-git clone https://github.com/Geek-MD/SmartHomeBot.git
+git clone https://github.com/Geek-MD/BasicTelegramBot.git
 ```
   
 Edit ***config.json*** and add your bot Telegram token, id number of allowed and admin users, id number of bot owner, chat id used by your bot, bot id and you're done. Now run with
