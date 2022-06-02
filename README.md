@@ -30,7 +30,7 @@ git clone https://github.com/Geek-MD/BasicTelegramBot.git
 Edit ***config.json*** and add your bot Telegram token, id number of allowed and admin users, id number of bot owner, chat id used by your bot, bot id and you're done. Now run with
 
 ```
-python smarthomebot.py
+python basictelegrambot.py
 ```
   
 If you want to run the bot at startup, or advanced configuration, check the [Wiki](https://github.com/Geek-MD/SmartHomeBot/wiki).
