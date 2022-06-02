@@ -33,4 +33,4 @@ Edit ***config.json*** and add your bot Telegram token, id number of allowed and
 python basictelegrambot.py
 ```
   
-If you want to run the bot at startup, or advanced configuration, check the [Wiki](https://github.com/Geek-MD/SmartHomeBot/wiki).
+If you want to run the bot at startup, or advanced configuration, check the [Wiki](https://github.com/Geek-MD/BasicTelegramBot/wiki).
